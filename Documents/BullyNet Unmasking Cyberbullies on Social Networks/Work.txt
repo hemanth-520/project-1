@@ -1,0 +1,30 @@
+Tweet Admin
+
+Login,
+View All Users And Authorize,
+View All Followers,
+Add and View Filter,
+View All User Tweets,
+View All User Retweets,
+View All Cyberbulling Attitude,
+View All Positive Attitude, 
+View All Negative Attitude,
+View Total Tweets Score.
+
+
+User
+
+
+View My Profile,
+View All Users,
+View Friend Request,
+View All My Friends,
+Create Your Tweet,
+View All My Tweets,
+View All My Friends Tweets.
+
+Members
+
+
+Tweet Name,Description,Select Tweet image,Tweet Owner,Tweet Date
+
